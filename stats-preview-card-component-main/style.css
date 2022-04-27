@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+*{
+    font-family: 'inter', 'lexenda deca';
+}
+.attribution {
+     font-size: 11px;
+     text-align: center;
+     }
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     }
+body {
+     background-color: hsl(233, 47%, 7%);
+     text-align: center;
+     width: 100vw;
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+ div {
+   width:  400px;
+   height: 500px;
+ }
+ .card {
+     background-color: hsl(244, 38%, 16%);  
+     width: 400px;
+}
+.text{
+     padding-left: 13px;
+     padding-right: 13px;
+     color:  hsl(0, 0%, 100%);
+     align-items: center;
+}
+div
+img{
+     background-color:  hsl(277, 64%, 61%); 
+     width: 100%;
+}
